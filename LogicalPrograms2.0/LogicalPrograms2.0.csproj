@@ -43,8 +43,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Binary.cs" />
+    <Compile Include="DecToBinary.cs" />
+    <Compile Include="FindDayOfWeek.cs" />
+    <Compile Include="MonthlyPayment.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Sqrt.cs" />
+    <Compile Include="TemperatureConversion.cs" />
+    <Compile Include="VendingMachine.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
